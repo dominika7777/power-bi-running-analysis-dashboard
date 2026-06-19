@@ -87,21 +87,15 @@ As part of the project, I completed the following tasks:
 * Running_Analysis.pbix – Power BI project file
 * Running_Analysis.pdf – exported dashboard preview
 * README.md – project description
-* screenshots/ – dashboard screenshots
+* overview.png – screenshot of the overview page
+* global_pace_analyst.png – screenshot of the geographical analysis page
+* evolution_of_records.png – screenshot of the time trend analysis page
 
 ## Dashboard Preview
 
-### Top Running Times – Overview
-
-<img width="883" height="511" alt="Zrzut ekranu 2026-06-19 o 20 42 29" src="https://github.com/user-attachments/assets/1a8335c5-3c6f-41c5-8683-8c1417434416" />
-
-### Global Pace Analyst
-
-<img width="880" height="510" alt="Zrzut ekranu 2026-06-19 o 20 43 08" src="https://github.com/user-attachments/assets/cc9d7c8c-d50e-4938-97ad-3ac03d9094c1" />
-
-### Evolution of Running Records Over Time
-
-<img width="881" height="508" alt="Zrzut ekranu 2026-06-19 o 20 43 48" src="https://github.com/user-attachments/assets/b84d973f-04d1-4e29-a98c-d44bfdb33c10" />
+![Top Running Times Overview](overview.png)
+![Global Pace Analyst](global_pace_analyst.png)
+![Evolution of Running Records](evolution_of_records.png)
 
 ## What I Learned
 
