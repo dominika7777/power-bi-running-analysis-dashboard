@@ -84,12 +84,12 @@ As part of the project, I completed the following tasks:
 
 ## Files in This Repository
 
-* Running_Analysis.pbix – Power BI project file
-* Running_Analysis.pdf – exported dashboard preview
-* README.md – project description
-* overview.png – screenshot of the overview page
-* global_pace_analyst.png – screenshot of the geographical analysis page
-* evolution_of_records.png – screenshot of the time trend analysis page
+- `Running_Analysis.pbix` – Power BI project file
+- `Running_Analysis.pdf` – exported dashboard preview
+- `README.md` – project description
+- `overview.png` – screenshot of the overview page
+- `global_pace_analyst.png` – screenshot of the geographical analysis page
+- `evolution_of_records.png` – screenshot of the time trend analysis page
 
 ## Dashboard Preview
 
